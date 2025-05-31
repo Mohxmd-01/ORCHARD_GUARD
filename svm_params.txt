@@ -1,0 +1,6 @@
+Kernel: rbf
+C: 1.0
+Gamma: scale
+Probability: True
+Random State: 42
+SVM internal classes_: [0 1 2 3]

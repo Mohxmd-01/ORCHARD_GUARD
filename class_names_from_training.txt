@@ -1,0 +1,4 @@
+0:Apple Scab
+1:Black Rot
+2:Cedar Apple Rust
+3:Healthy
